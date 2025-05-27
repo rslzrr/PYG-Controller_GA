@@ -3,7 +3,7 @@
 # 🚀 PYG-Controller_GA
 
 <!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Next-Generation+2D+Space+Combat;Custom+Hardware+Controller;Immersive+Gaming+Experience)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Custom+Hardware+Controller;PYG-Controller_GA)
 
 **An immersive arcade-style spaceship game featuring a custom-built hardware controller**
 
