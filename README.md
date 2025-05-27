@@ -8,32 +8,9 @@
 **An immersive arcade-style spaceship game featuring a custom-built hardware controller**
 
 <!-- Animated Badges -->
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Game Engine](https://img.shields.io/badge/Engine-Pygame-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-Arduino-red.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-
-<!-- Animated Spaceship SVG -->
-<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#00ff41;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#0099ff;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <g>
-    <animateTransform attributeName="transform" attributeType="XML" type="translate" 
-                      values="-50,50;250,50;-50,50" dur="4s" repeatCount="indefinite"/>
-    <!-- Spaceship Body -->
-    <polygon points="0,45 30,35 30,65" fill="url(#grad1)"/>
-    <!-- Engine Glow -->
-    <circle cx="-5" cy="50" r="3" fill="#ff4444">
-      <animate attributeName="opacity" values="0.3;1;0.3" dur="0.5s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-</svg>
-
-[🎮 Play Demo](#demo) • [📖 Documentation](#documentation) • [🛠️ Setup](#installation) • [🤝 Contribute](#contributing)
 
 </div>
 
@@ -135,17 +112,7 @@
 <!-- Animated Footer -->
 <div align="center">
 
-<!-- Pulsing Star Animation -->
-<svg width="50" height="50" xmlns="http://www.w3.org/2000/svg">
-  <polygon points="25,5 30,20 45,20 35,30 40,45 25,35 10,45 15,30 5,20 20,20" fill="#ffaa00">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="1.5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="scale" values="0.8;1.2;0.8" dur="1.5s" repeatCount="indefinite"/>
-  </polygon>
-</svg>
-
 ### 🌟 Star this project if you found it helpful!
-
-**Made with ❤️ by the PYG-Controller_GA Team**
 
 <!-- Animated "Back to Top" -->
 <a href="#-pyg-controller_ga">
