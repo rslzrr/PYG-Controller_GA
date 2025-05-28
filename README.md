@@ -14,7 +14,28 @@
 
 ### ✨ Key Features
 
-<div align="center"> <table> <tr> <td align="center" width="25%"> <strong>Precision Combat</strong> <br><em>Smooth 2D spaceship controls</em> </td> <td align="center" width="25%"> <strong>Custom Hardware</strong> <br><em>Proprietary controller design</em> </td> <td align="center" width="25%"> <strong>Arcade Experience</strong> <br><em>Classic space combat</em> </td> <td align="center" width="25%"> <strong>Open Source</strong> <br><em>Fully customizable</em> </td> </tr> </table> </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <strong>Precision Combat</strong><br>
+        <em>Smooth 2D spaceship controls</em>
+      </td>
+      <td align="center" width="25%">
+        <strong>Custom Hardware</strong><br>
+        <em>Proprietary controller design</em>
+      </td>
+      <td align="center" width="25%">
+        <strong>Arcade Experience</strong><br>
+        <em>Classic space combat</em>
+      </td>
+      <td align="center" width="25%">
+        <strong>Open Source</strong><br>
+        <em>Fully customizable</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### 🗺️ Game Architecture
 <div align="center">
