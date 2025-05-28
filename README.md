@@ -22,33 +22,14 @@
         <br><em>Smooth 2D spaceship controls</em>
       </td>
       <td align="center" width="25%">
-        <svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
-          <rect x="15" y="15" width="30" height="30" fill="none" stroke="#0099ff" stroke-width="3">
-            <animateTransform attributeName="transform" type="rotate" values="0 30 30;360 30 30" dur="3s" repeatCount="indefinite"/>
-          </rect>
-          <text x="30" y="35" text-anchor="middle" fill="#0099ff" font-size="20">🎮</text>
-        </svg>
         <br><strong>Custom Hardware</strong>
         <br><em>Proprietary controller design</em>
       </td>
       <td align="center" width="25%">
-        <svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
-          <polygon points="30,10 50,50 10,50" fill="#ff4444">
-            <animateTransform attributeName="transform" type="translate" values="0,0;0,-10;0,0" dur="1s" repeatCount="indefinite"/>
-          </polygon>
-          <text x="30" y="45" text-anchor="middle" fill="white" font-size="16">🚀</text>
-        </svg>
         <br><strong>Arcade Experience</strong>
         <br><em>Classic space combat</em>
       </td>
       <td align="center" width="25%">
-        <svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="30" cy="30" r="20" fill="#ffaa00">
-            <animate attributeName="r" values="15;25;15" dur="2s" repeatCount="indefinite"/>
-            <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
-          </circle>
-          <text x="30" y="35" text-anchor="middle" fill="white" font-size="20">🔧</text>
-        </svg>
         <br><strong>Open Source</strong>
         <br><em>Fully customizable</em>
       </td>
@@ -56,7 +37,6 @@
   </table>
 </div>
 
-<!-- Animated Section Divider -->
 <div align="center">
   <svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
     <defs>
@@ -79,16 +59,12 @@
   <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/wireframe.png" alt="Game Wireframe" width="800">
 </div>
 
-<!-- Rest of your content... -->
-
 ---
 
-<!-- Animated Footer -->
 <div align="center">
 
 ### 🌟 Star this project if you found it helpful!
 
-<!-- Animated "Back to Top" -->
 <a href="#-pyg-controller_ga">
   <svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
     <polygon points="15,5 25,20 5,20" fill="#00ff41">
