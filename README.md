@@ -42,6 +42,12 @@
   <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/wireframe.png" alt="Game Wireframe" width="800">
 </div>
 
+### 🎮 Controller Integration
+<div align="center">
+  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/output.jpg" alt="Game Output" width="400">
+  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/materials.jpg" alt="Game Materials" width="400">
+</div>
+
 ---
 
 <div align="center">
