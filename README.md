@@ -17,21 +17,21 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
-        <br><strong>Precision Combat</strong>
-        <br><em>Smooth 2D spaceship controls</em>
+      <td align="center" style="vertical-align: middle; width: 25%; padding: 20px;">
+        <strong>Precision Combat</strong><br>
+        <em>Smooth 2D spaceship controls</em>
       </td>
-      <td align="center" width="25%">
-        <br><strong>Custom Hardware</strong>
-        <br><em>Proprietary controller design</em>
+      <td align="center" style="vertical-align: middle; width: 25%; padding: 20px;">
+        <strong>Custom Hardware</strong><br>
+        <em>Proprietary controller design</em>
       </td>
-      <td align="center" width="25%">
-        <br><strong>Arcade Experience</strong>
-        <br><em>Classic space combat</em>
+      <td align="center" style="vertical-align: middle; width: 25%; padding: 20px;">
+        <strong>Arcade Experience</strong><br>
+        <em>Classic space combat</em>
       </td>
-      <td align="center" width="25%">
-        <br><strong>Open Source</strong>
-        <br><em>Fully customizable</em>
+      <td align="center" style="vertical-align: middle; width: 25%; padding: 20px;">
+        <strong>Open Source</strong><br>
+        <em>Fully customizable</em>
       </td>
     </tr>
   </table>
@@ -44,8 +44,8 @@
 
 ### 🎮 Controller Integration
 <div align="center">
-  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/output.jpg" alt="Game Output" width="350" style="border-radius: 15px;">
-  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/materials.jpg" alt="Game Materials" width="350" style="border-radius: 15px;">
+  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/output.jpg" alt="Game Output" width="350">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/materials.jpg" alt="Game Materials" width="350">
 </div>
 
 ---
