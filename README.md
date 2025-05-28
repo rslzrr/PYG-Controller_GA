@@ -14,16 +14,6 @@
 
 ---
 
-## 🌟 Overview
-
-**PYG-Controller_GA** revolutionizes the classic arcade experience by combining nostalgic 2D space combat with cutting-edge hardware integration.
-
-<!-- Add your gameplay GIF here -->
-<div align="center">
-  <img src="https://via.placeholder.com/600x300/000000/00FF41?text=GAMEPLAY+DEMO+GIF" alt="Gameplay Demo" width="600">
-  <p><em>🎮 Live gameplay demonstration (Replace with actual GIF)</em></p>
-</div>
-
 ### ✨ Key Features
 
 <!-- Animated Feature Icons -->
