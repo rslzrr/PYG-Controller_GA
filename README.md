@@ -18,7 +18,7 @@
   <table>
     <tr>
       <td align="center" style="vertical-align: middle; width: 25%;">
-        <strong>Precision Combat</strong><br>
+        **Precision Combat**<br>
         <em>Smooth 2D spaceship<br>
         controls</em>
       </td>
