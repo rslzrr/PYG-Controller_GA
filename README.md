@@ -1,13 +1,11 @@
 <div align="center">
 
-<!-- Typing Animation (Non-Clickable) -->
-<span style="pointer-events: none;">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=PYG-Controller_GA;Custom+Hardware+Controller)
-</span>
+<!-- Typing Animation -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=PYG-Controller_GA;Custom+Hardware+Controller)
 
 **An immersive arcade-style spaceship game featuring a custom-built hardware controller**
 
-<!-- Rest of your content remains unchanged -->
+<!-- Animated Badges -->
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Game Engine](https://img.shields.io/badge/Engine-Pygame-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-Arduino-red.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
