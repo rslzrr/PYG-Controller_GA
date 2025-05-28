@@ -19,23 +19,19 @@
     <tr>
       <td align="center" width="25%">
         <strong>Precision Combat</strong><br>
-        <em>Smooth 2D spaceship<br>
-          controls</em>
+        <em>Smooth 2D spaceship controls</em>
       </td>
       <td align="center" width="25%">
         <strong>Custom Hardware</strong><br>
-        <em>Proprietary controller<br>
-          design</em>
+        <em>Proprietary controller design</em>
       </td>
       <td align="center" width="25%">
         <strong>Arcade Experience</strong><br>
-        <em>Stellar classic space<br>
-          combat</em>
+        <em>Stellar classic space combat</em>
       </td>
       <td align="center" width="25%">
         <strong>Open Source</strong><br>
-        <em>Fully customizable<br>
-          platform</em>
+        <em>Fully customizable platform qtpai</em>
       </td>
     </tr>
   </table>
