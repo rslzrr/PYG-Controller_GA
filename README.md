@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Typing Animation -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=PYG-Controller_GA;Custom+Hardware+Controller)
 
 **An immersive arcade-style spaceship game featuring a custom-built hardware controller**
 
-<!-- Animated Badges -->
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Game Engine](https://img.shields.io/badge/Engine-Pygame-green.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.pygame.org/)
 [![Hardware](https://img.shields.io/badge/Hardware-Arduino-red.svg?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
@@ -16,17 +14,10 @@
 
 ### ✨ Key Features
 
-<!-- Animated Feature Icons -->
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <svg width="60" height="60" xmlns="http://www.w3.org/2000/svg">
-          <circle cx="30" cy="30" r="25" fill="none" stroke="#00ff41" stroke-width="3">
-            <animate attributeName="stroke-dasharray" values="0,157;78.5,78.5;0,157" dur="2s" repeatCount="indefinite"/>
-          </circle>
-          <text x="30" y="35" text-anchor="middle" fill="#00ff41" font-size="20">🎯</text>
-        </svg>
         <br><strong>Precision Combat</strong>
         <br><em>Smooth 2D spaceship controls</em>
       </td>
