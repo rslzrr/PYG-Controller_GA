@@ -54,7 +54,7 @@
       <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1s" repeatCount="indefinite"/>
     </polygon>
   </svg>
-  <br>⬆ Back to Top
+  <br>⬆ Back to Top ⬆
 </a>
 
 </div>
