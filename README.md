@@ -17,22 +17,24 @@
 <div align="center">
   <table>
     <tr>
-      <th style="vertical-align: middle; width: 25%; padding: 10px;">
-        Precision Combat<br>
-        <em>Smooth 2D spaceship controls</em>
-      </th>
-      <th style="vertical-align: middle; width: 25%; padding: 10px;">
-        Custom Hardware<br>
-        <em>Proprietary controller design</em>
-      </th>
-      <th style="vertical-align: middle; width: 25%; padding: 10px;">
-        Arcade Experience<br>
+      <td align="center" style="vertical-align: middle; width: 25%;">
+        <strong>Precision Combat</strong><br>
+        <em>Smooth 2D spaceship<br>
+        controls</em>
+      </td>
+      <td align="center" style="vertical-align: middle; width: 25%;">
+        <strong>Custom Hardware</strong><br>
+        <em>Proprietary controller<br>
+        design</em>
+      </td>
+      <td align="center" style="vertical-align: middle; width: 25%; padding-bottom: 10px;">
+        <strong>Arcade Experience</strong><br>
         <em>Classic space combat</em>
-      </th>
-      <th style="vertical-align: middle; width: 25%; padding: 10px;">
-        Open Source<br>
+      </td>
+      <td align="center" style="vertical-align: middle; width: 25%;">
+        <strong>Open Source</strong><br>
         <em>Fully customizable</em>
-      </th>
+      </td>
     </tr>
   </table>
 </div>
