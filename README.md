@@ -17,7 +17,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="vertical-align: middle; width: 25%; padding: 20px">
+      <td align="center" style="vertical-align: middle; width: 25%;">
         <strong>Precision Combat</strong><br>
         <em>Smooth 2D spaceship<br>
         controls</em>
