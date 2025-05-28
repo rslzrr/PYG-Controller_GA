@@ -86,7 +86,6 @@
 ### 🗺️ Game Architecture
 <div align="center">
   <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/wireframe.png" alt="Game Wireframe" width="800">
-  <p><em>Comprehensive wireframe showing game structure and component relationships</em></p>
 </div>
 
 <!-- Rest of your content... -->
