@@ -31,7 +31,7 @@
       </td>
       <td align="center" width="25%">
         <strong>Open Source</strong><br>
-        <em>Fully customizable platform qtpai</em>
+        <em>Fully customizable</em>
       </td>
     </tr>
   </table>
