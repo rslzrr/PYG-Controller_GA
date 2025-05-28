@@ -65,10 +65,6 @@
   </table>
 </div>
 
----
-
-## 🎨 Project Showcase
-
 <!-- Animated Section Divider -->
 <div align="center">
   <svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
