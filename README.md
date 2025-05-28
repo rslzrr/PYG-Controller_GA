@@ -17,23 +17,25 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="vertical-align: middle; width: 25%; font-size: 20px;">
+      <td align="center" style="vertical-align: middle; width: 25%;">
         <strong>Precision Combat</strong><br>
-        <em>Smooth 2D spaceship<br>
-        controls</em>
+        <em>Smooth 2D<br>
+        spaceship controls</em>
       </td>
       <td align="center" style="vertical-align: middle; width: 25%;">
         <strong>Custom Hardware</strong><br>
-        <em>Proprietary controller<br>
-        design</em>
+        <em>Proprietary<br>
+        controller design</em>
       </td>
       <td align="center" style="vertical-align: middle; width: 25%;">
         <strong>Arcade Experience</strong><br>
-        <em>Classic space combat</em>
+        <em>Classic<br>
+        space combat</em>
       </td>
       <td align="center" style="vertical-align: middle; width: 25%;">
         <strong>Open Source</strong><br>
-        <em>Fully customizable</em>
+        <em>Fully<br>
+        customizable</em>
       </td>
     </tr>
   </table>
