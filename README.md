@@ -27,7 +27,7 @@
       </td>
       <td align="center" width="25%">
         <strong>Arcade Experience</strong><br>
-        <em>Classic space combat</em>
+        <em>Stellar classic space combat</em>
       </td>
       <td align="center" width="25%">
         <strong>Open Source</strong><br>
