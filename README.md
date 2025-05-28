@@ -31,7 +31,8 @@
       </td>
       <td align="center" width="25%">
         <strong>Open Source</strong><br>
-        <em>Fully customizable</em>
+        <em>Fully customizable<br>
+        platform</em>
       </td>
     </tr>
   </table>
