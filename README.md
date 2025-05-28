@@ -48,13 +48,4 @@
 
 ### 🌟 Star this project if you found it helpful!
 
-<a href="#-pyg-controller_ga">
-  <svg width="30" height="30" xmlns="http://www.w3.org/2000/svg">
-    <polygon points="15,5 25,20 5,20" fill="#00ff41">
-      <animateTransform attributeName="transform" type="translate" values="0,0;0,-5;0,0" dur="1s" repeatCount="indefinite"/>
-    </polygon>
-  </svg>
-  <br>⬆ Back to Top ⬆
-</a>
-
 </div>
