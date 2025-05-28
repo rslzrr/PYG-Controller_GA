@@ -37,23 +37,6 @@
   </table>
 </div>
 
-<div align="center">
-  <svg width="100%" height="20" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="wave" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" style="stop-color:#00ff41;stop-opacity:0">
-          <animate attributeName="stop-opacity" values="0;1;0" dur="2s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="50%" style="stop-color:#0099ff;stop-opacity:1"/>
-        <stop offset="100%" style="stop-color:#ff4444;stop-opacity:0">
-          <animate attributeName="stop-opacity" values="0;1;0" dur="2s" repeatCount="indefinite" begin="1s"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect width="100%" height="3" fill="url(#wave)"/>
-  </svg>
-</div>
-
 ### 🗺️ Game Architecture
 <div align="center">
   <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/wireframe.png" alt="Game Wireframe" width="800">
