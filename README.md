@@ -17,8 +17,8 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="vertical-align: middle; width: 25%;">
-        **Precision Combat**<br>
+      <td align="center" style="vertical-align: middle; width: 25%; font-size: 20px;">
+        <strong>Precision Combat</strong><br>
         <em>Smooth 2D spaceship<br>
         controls</em>
       </td>
@@ -27,7 +27,7 @@
         <em>Proprietary controller<br>
         design</em>
       </td>
-      <td align="center" style="vertical-align: middle; width: 25%; padding-bottom: 10px;">
+      <td align="center" style="vertical-align: middle; width: 25%;">
         <strong>Arcade Experience</strong><br>
         <em>Classic space combat</em>
       </td>
