@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Typing Animation -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=PYG-Controller_GA;Custom+Hardware+Controller)
+&lt;!-- Non-clickable typing animation with custom styling -->
+<div style="pointer-events: none; user-select: none;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=🚀+PYG-Controller_GA;⚡+Custom+Hardware+Controller;🎮+Immersive+Gaming+Experience" alt="Typing Animation" />
+</div>
 
 **An immersive arcade-style spaceship game featuring a custom-built hardware controller**
 
