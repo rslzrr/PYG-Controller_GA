@@ -44,7 +44,7 @@
 
 ### 🎮 Controller Integration
 <div align="center">
-  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/output.jpg" alt="Game Output" width="350">
+  <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/output.jpg" alt="Game Output" width="350" style="margin-right: 20px;">
   <img src="https://github.com/rslzrr/PYG-Controller_GA/blob/b2d85d341784df6ad907a21a09a22042f175a6e7/outputIMG/materials.jpg" alt="Game Materials" width="350">
 </div>
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-### 🌟 If you're blown away by this epic project, drop a star to celebrate its awesomeness!
+### 🌟 Give this project a star if it's fantastic!
 
 </div>
